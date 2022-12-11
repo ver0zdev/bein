@@ -1,24 +1,4 @@
 ﻿#EXTM3U
-#EXTREM:Généré le 2022-12-01 20:49:32
-#EXTREM:Rappel des paramètres :
-#EXTREM:cha_TNT=1
-#EXTREM:cha_CANAL=1
-#EXTREM:cha_info=1
-#EXTREM:cha_loca=1
-#EXTREM:cha_dive=1
-#EXTREM:cha_etr_ang=
-#EXTREM:cha_etr_ara=1
-#EXTREM:cha_etr_ger=
-#EXTREM:cha_etr_his=
-#EXTREM:cha_etr_ita=1
-#EXTREM:cha_etr_lus=
-#EXTREM:cha_radios=1
-#EXTREM:zone_pilote=
-#EXTREM:ip_box=192.168.1.1
-#EXTREM:ip_port=3333
-#EXTREM:cha_prio=hd_sd
-#EXTREM:cha_proto=ott
-#EXTREM:Début des programmes :
 #EXTINF:0 tvg-id="TF11.kazer.org" tvg-logo="tf1.png" group-name="TNT" ,1. TF1
 http://s.tv.kwaoo.net/1/play.m3u8
 #EXTINF:0 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" group-name="TNT" ,2. France 2
@@ -83,27 +63,6 @@ http://s.tv.kwaoo.net/125/play.m3u8
 http://s.tv.kwaoo.net/4/play.m3u8
 #EXTINF:0 tvg-id="FRA16.kazer.org" tvg-logo="f24-fr.png" group-name="Informations" ,54. France 24 (Fra)
 http://s.tv.kwaoo.net/54/play.m3u8
-#EXTINF:0 tvg-id="FRA35.kazer.org" tvg-logo="france3.png" group-name="Local" ,30. France 3 Alpes
-http://s.tv.kwaoo.net/30/play.m3u8
-#EXTINF:0 tvg-id="TV81.kazer.org" tvg-logo="tv8mb.png" group-name="Local" ,31. TV8 MontBlanc
-http://s.tv.kwaoo.net/31/play.m3u8
-#EXTINF:0 tvg-logo="vosges-tv.png" group-name="Local" ,33. VosgesTV
-http://s.tv.kwaoo.net/0/play.m3u8
-#EXTINF:0 tvg-id="CCT2.kazer.org" tvg-logo="cctv.png" group-name="Local" ,50. CCTVF
-http://s.tv.kwaoo.net/50/play.m3u8
-#EXTINF:0 tvg-logo="montagne.png" group-name="Local" ,68. Montagne TV
-http://s.tv.kwaoo.net/141/play.m3u8
-#EXTINF:0 tvg-logo="mirabelle.png" group-name="Local" ,88. Mirabelle TV
-http://s.tv.kwaoo.net/0/play.m3u8
-#EXTREM : semble out
-#EXTINF:0 tvg-id="M6B1.kazer.org" tvg-logo="M6_Boutique.png" group-name="Divers" ,64. M6 Boutique
-http://s.tv.kwaoo.net/64/play.m3u8
-#EXTINF:0 tvg-id="BES4.kazer.org" tvg-logo="bestofshopping.png" group-name="Divers" ,70. Best Of Shopping
-http://s.tv.kwaoo.net/70/play.m3u8
-#EXTINF:0 tvg-id="KTO1.kazer.org" tvg-logo="kto.png" group-name="Divers" ,91. KTO
-http://s.tv.kwaoo.net/0/play.m3u8
-#EXTINF:0 group-name="Divers" ,140. Nolife
-http://s.tv.kwaoo.net/140/play.m3u8
 #EXTINF:0 group-name="Arabophones" ,80. AD Sport 1
 http://s.tv.kwaoo.net/80/play.m3u8
 #EXTINF:0 tvg-logo="al-sharqiya.png" group-name="Arabophones" ,81. Al Sharqiya
